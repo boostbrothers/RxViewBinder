@@ -11,7 +11,7 @@ RxViewBinder is a one-way architecture using Reactive Extension.
   s.source           = { :git => 'https://github.com/magi82/RxViewBinder.git', :tag => s.version.to_s }
   s.ios.deployment_target = '9.0'
   s.source_files = 'Sources/*.swift'
-  s.dependency 'RxSwift', '~> 5.0'
-  s.dependency 'RxCocoa', '~> 5.0'
+  s.dependency 'RxSwift', '~> 6.0'
+  s.dependency 'RxCocoa', '~> 6.0'
   s.swift_version = '5.0'
 end
